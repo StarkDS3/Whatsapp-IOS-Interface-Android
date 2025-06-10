@@ -2,6 +2,6 @@ import { Text } from "react-native"
 
 export default function App(){
   return (
-    <Text>Hola</Text>
+    <Text>Start Here</Text>
   );
 }
